@@ -21,15 +21,6 @@ build a **Todo List App _from scratch_** in **JavaScript**.
 </a>
 
 </div>
-
-> Before you continue, try the demo: https://todomvc-app.herokuapp.com <br />
-
-> Add a few items to the list. Double-click/tap the item to edit it.
-Check-off your todos and navigate the footer to filter for Active/Completed.
-Try and "break" it! Refresh the page and notice how your todo items
-are "still there" (_they were saved to `localStorage`!_).
-Once you have had a "play" with the demo, come back and _build_ it!!
-
 <hr />
 
 ## Why?
